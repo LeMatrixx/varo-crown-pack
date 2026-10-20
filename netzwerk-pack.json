@@ -1,9 +1,9 @@
 {
-  "tag": "pack-88175e30",
-  "url": "https://github.com/LeMatrixx/varo-crown-pack/releases/download/pack-88175e30/netzwerk-pack.zip",
-  "sha1": "88175e30a68da4a70943cf00eb19b8bb602c704c",
+  "tag": "pack-7250cab1",
+  "url": "https://github.com/LeMatrixx/varo-crown-pack/releases/download/pack-7250cab1/netzwerk-pack.zip",
+  "sha1": "7250cab14f21dc132f6fb6a400609cc000e15459",
   "maxCodepoint": "e11b",
   "glyphs": 284,
-  "mirror": "https://cdn.jsdelivr.net/gh/LeMatrixx/varo-crown-pack@c89009daa5f94be609ba93dc9a17ef4a7c33468c/netzwerk-pack.zip",
+  "mirror": "https://cdn.jsdelivr.net/gh/LeMatrixx/varo-crown-pack@dc08cf0bff1447244aadbe4f763d5ff41128e88b/netzwerk-pack.zip",
   "prefer": "mirror"
 }
